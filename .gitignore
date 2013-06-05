@@ -1,0 +1,4 @@
+dist
+MANIFEST
+build/
+remotemoose/*pyc
